@@ -1,5 +1,7 @@
 body{
     font-size: xx-large;
+    width:1200px;
+    margin:0 auto;
     align-items: center;
     color: rgb(3,42,51);
     text-align: center;
@@ -649,4 +651,5 @@ tr{
 .social-media a:hover {
   color: #065a6f;
 }
+
 
